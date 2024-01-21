@@ -1,0 +1,1 @@
+python -m nuitka --mingw64 main.py

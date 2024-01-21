@@ -3,3 +3,9 @@ build/*
 temp/*
 testfiles/*
 .idea/*
+*.bin
+!payload/*.bin
+
+main.build/*
+main.dist/*
+main.onefile-build/*
