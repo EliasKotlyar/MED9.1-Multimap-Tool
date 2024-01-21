@@ -19,8 +19,11 @@ To make this tool work, you need to find 4 different locations in your file.
 I will name them accordingly to the yaml:
 
 "Payload Address" = insert_payload->address
+
 "B_fgr" =   insert_payload->variables->B_fgr
+
 "vkKraQu" =   insert_payload->variables->vkKraQu
+
 "20ms_loop" = insert_jmp->address
 
 
